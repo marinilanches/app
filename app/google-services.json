@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170185351689",
+    "project_id": "mesa-facil-62310",
+    "storage_bucket": "mesa-facil-62310.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170185351689:android:cf0e0feb47f43ea3ef8ed8",
+        "android_client_info": {
+          "package_name": "com.example.mesafacil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB46q-N0ylMvtK0pXR_i752vBtMxL80Xpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
